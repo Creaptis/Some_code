@@ -1,0 +1,1 @@
+the parameters given as examples is an array of shape (10,6)
