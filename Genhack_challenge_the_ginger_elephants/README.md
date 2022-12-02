@@ -2,7 +2,13 @@
 
 This is a copy of the model we are working on with my team for the genhack challenge. It is a small GAN wich we are currently working on so it is no final
 version. Some of this code is the template given by the organizing team of the challenge for our code to be receivable. The code We did can be found in "crossval.upynb" (copy of a colab we use to work simultaneously on it), "model.py" and we naturally modified 'parameters/" with our parameters and "requirements.txt" to include our libraries.
-
+;
+.
+.
+.
+.
+.
+;
 
 
 
