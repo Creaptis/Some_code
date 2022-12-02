@@ -1,15 +1,7 @@
 # For application at MILA
 
 This is a copy of the model we are working on with my team for the genhack challenge. It is a small GAN wich we are currently working on so it is no final
-version. Some of this code is the template given by the organizing team of the challenge for our code to be receivable. The code We did can be found in "crossval.upynb" (copy of a colab we use to work simultaneously on it), "model.py" and we naturally modified 'parameters/" with our parameters and "requirements.txt" to include our libraries.
-;
-.
-.
-.
-.
-.
-;
-
+version. Some of this code is the template given by the organizing team of the challenge for our code to be receivable. The code We did can be found in "crossval.upynb" (copy of a colab we use to work simultaneously on it), "model.py" and we naturally modified 'parameters/" with our parameters and "requirements.txt" to include our libraries.\n\n\n\n\n
 
 
 ## GenHack2 - Hackathon for Generative modeling : Simulation of global warming Sea Surface Temperatures ([website](https://www.polytechnique.edu/en/education/academic-and-research-departments/applied-mathematics-department-depmap/student-event/genhack-2-hackathon-generative-modelling))
